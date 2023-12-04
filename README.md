@@ -8,7 +8,7 @@ Essas são as minhas redes sociais:
 ![Isabel GitHub stats](https://github-readme-stats.vercel.app/api?username=isabel-emanuelly&show_icons=true&theme=dark)
 
 
-## 💻 Conheça as Tecnologias que eu utilizo:
+#### 💻 Conheça as Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
