@@ -5,7 +5,7 @@ Essas são as minhas redes sociais:
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isabel_rfe)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@isabel.emanuelly?is_from_webapp=1&sender_device=pc)
 
-![Isabel GitHub stats](https://github-readme-stats.vercel.app/api?username=isabel-emanuelly&show_icons=true&theme=tokyonight)
+![Isabel GitHub stats](https://github-readme-stats.vercel.app/api?username=isabel-emanuelly&show_icons=true&theme=dark)
 
 
 ## 💻 Conheça as Tecnologias que eu utilizo:
